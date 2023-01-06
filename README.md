@@ -10,4 +10,5 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package
 pip install -r requirements.txt 
 python manage.py runserver
 ```
-![Demo] (https://user-images.githubusercontent.com/68337132/210932561-72a27369-af0d-4d1d-aa7e-80885901a03d.mp4)
+# Quik Demo 
+![Demo](https://user-images.githubusercontent.com/68337132/210933685-ec9714af-d35e-4d56-a870-8850591857a6.gif)
