@@ -1,6 +1,6 @@
 # Django Ecommerce 
 
-This is a  e-commerce website built with Django.
+This is an  e-commerce website built with Django.
 
 
  ## Quik Demo 
